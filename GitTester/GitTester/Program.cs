@@ -10,6 +10,7 @@ namespace GitTester
     {
         static void Main(string[] args)
         {
+            string s = "";
         }
     }
 }
